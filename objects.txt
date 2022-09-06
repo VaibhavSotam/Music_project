@@ -1,0 +1,22 @@
+[
+    {
+        "Song Name" : "Tose Naina -- By Arijit Singh",
+        "Url" : "Files\\tose Naina.mp3",
+        "img" : "Files\\tosenaina.png"
+     },
+    {
+        "Song Name" : "Tum jo Aay Zindagi Mai -- By Rahat Fateh Ali Khan",
+        "Url" : "Files\\tum Jo Aaye.mp3",
+        "img" : "Files\\tum jo aay.jpg"
+     },
+    {
+        "Song Name" : "Tere Naal -- By Darshan Rawal",
+        "Url" : "Files\\Tere Naal - Darshan Raval.mp3",
+        "img" : "Files\\Tere Naal.jpg"
+     },
+    {
+        "Song Name" : "Teri Aankhon Mai -- By Darshan Rawal",
+        "Url" : "Files\\Teri Aankhon Mein - Darshan Raval.mp3",
+        "img" : "Files\\teri aankhon mai.jpg"
+     }
+]
